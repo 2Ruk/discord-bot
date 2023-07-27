@@ -1,0 +1,20 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "for architecture practice",
+  "main": "main.js",
+  "type":"module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2Ruk/discord-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2Ruk/discord-bot/issues"
+  },
+  "homepage": "https://github.com/2Ruk/discord-bot#readme"
+}
